@@ -4,7 +4,7 @@ The following are all notes, articles, and boilerplates I've written, organized 
 
 - CSS
     - [CSS Boilerplate](https://www.jbernier.com/css-boilerplate)
-    - [CSS Grid](/css-grid)
+    - [CSS Grid](https://www.jbernier.com/css-grid)
     - [Flexbox](https://www.jbernier.com/flexbox)
     - [Dark Mode Problems](https://www.jbernier.com/dark-mode)
     - [Z-Index Explained](https://www.jbernier.com/z-indexes-explained/)
