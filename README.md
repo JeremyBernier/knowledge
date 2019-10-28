@@ -2,8 +2,8 @@
 
 The following are all notes, articles, and boilerplates I've written, organized by topic (NOTE: Under Construction). 
 
-- CSS
-    - [CSS Boilerplate](https://www.jbernier.com/css-boilerplate)
+- HTML/CSS
+    - [HTML/CSS Boilerplate](https://www.jbernier.com/html-css-boilerplate)
     - [CSS Grid](https://www.jbernier.com/css-grid)
     - [Flexbox](https://www.jbernier.com/flexbox)
     - [Dark Mode Problems](https://www.jbernier.com/dark-mode)
