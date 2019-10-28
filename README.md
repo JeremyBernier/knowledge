@@ -34,7 +34,7 @@ The following are all notes, articles, and boilerplates I've written, organized 
 
 - Unix
     - [Useful hotkeys/shortcuts](https://www.jbernier.com/unix-commands)
-- [Tmux](/tmux)
+- [Tmux](https://www.jbernier.com/tmux)
 - Git
 - [Sublime Text 3](/sublime-text)
 
