@@ -32,9 +32,8 @@ The following are all notes, articles, and boilerplates I've written, organized 
 
 ### Terminal / Software
 
-- [Unix](/unix)
-    - Zsh
-    - [Useful hotkeys/shortcuts](/unix-commands)
+- Unix
+    - [Useful hotkeys/shortcuts](https://www.jbernier.com/unix-commands)
 - [Tmux](/tmux)
 - Git
 - [Sublime Text 3](/sublime-text)
