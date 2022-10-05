@@ -2,6 +2,8 @@
 
 The following are all notes, articles, and boilerplates I've written, organized by topic (NOTE: Under Construction). 
 
+- Google Cloud
+    - [Deploy to Google Cloud Run with Environment Variables](https://gist.github.com/JeremyBernier/801e43f9341098e9763afd4faf5f067a)
 - HTML / CSS
     - [HTML/CSS Boilerplate](https://www.jbernier.com/html-css-boilerplate)
     - [CSS Grid](https://www.jbernier.com/css-grid)
@@ -14,6 +16,8 @@ The following are all notes, articles, and boilerplates I've written, organized 
     - [React Redux Node.js Universal Javascript Boilerplate](https://github.com/JeremyBernier/react-redux-node-boilerplate)
     - Mobx Boilerplate
     - Goodbye Redux, Hello Mobx
+- TypeORM
+    - [upsert (deprecated)](https://gist.github.com/JeremyBernier/5683ebc8e83990a4d4e3d0abd1a9549d)
 - Lit-Element
     - [Sublime Text Lit-Element Syntax Highlighting](https://github.com/JeremyBernier/LitElement-Syntax-Highlighting)
     - [Hello World (Webpack)](https://github.com/JeremyBernier/lit-element-webpack-hello-world)
