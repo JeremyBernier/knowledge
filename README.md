@@ -22,9 +22,6 @@ The following are all notes, articles, and boilerplates I've written, organized 
 - Lit-Element
     - [Sublime Text Lit-Element Syntax Highlighting](https://github.com/JeremyBernier/LitElement-Syntax-Highlighting)
     - [Hello World (Webpack)](https://github.com/JeremyBernier/lit-element-webpack-hello-world)
-    - Lit-Element Review
-    - Lit-Element for React Developers
-    - Lit-Element vs. React
 - Static Site Generators / JAMstack
     - [Gatsbyjs Review](/gatsbyjs-review)
 - Canvas
