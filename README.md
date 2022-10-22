@@ -15,9 +15,7 @@ The following are all notes, articles, and boilerplates I've written, organized 
 - Javascript
     - [Javascript Absurdities](https://www.jbernier.com/javascript-absurdities/)
 - React
-    - [React Redux Node.js Universal Javascript Boilerplate](https://github.com/JeremyBernier/react-redux-node-boilerplate)
-    - Mobx Boilerplate
-    - Goodbye Redux, Hello Mobx
+    - [React Redux Node.js Universal Javascript Boilerplate](https://github.com/JeremyBernier/react-redux-node-boilerplate) (outdated now, just use Next.js)
 - TypeORM
     - [TypeORM Tutorial / Code Samples](https://jbernier.notion.site/TypeORM-Tutorial-09a1a88f0f9c48a7976318ce5dc2646c)
     - [upsert (deprecated)](https://gist.github.com/JeremyBernier/5683ebc8e83990a4d4e3d0abd1a9549d)
@@ -29,7 +27,6 @@ The following are all notes, articles, and boilerplates I've written, organized 
     - Lit-Element vs. React
 - Static Site Generators / JAMstack
     - [Gatsbyjs Review](/gatsbyjs-review)
-    - Build Your Own Static Site Generator
 - Canvas
     - [Tips for Developing a 2D HTML5 Canvas Javascript game](https://www.jbernier.com/2d-html5-canvas-javascript-game-tips)
 - Three.js
