@@ -17,7 +17,7 @@ The following are all notes, articles, and boilerplates I've written, organized 
 - React
     - [React Redux Node.js Universal Javascript Boilerplate](https://github.com/JeremyBernier/react-redux-node-boilerplate) (outdated now, just use Next.js)
 - TypeORM
-    - [TypeORM GraphQL Tutorial / Code Samples](https://jbernier.notion.site/TypeORM-Tutorial-09a1a88f0f9c48a7976318ce5dc2646c)
+    - [TypeORM TypeGraphQL Tutorial / Code Samples](https://jbernier.notion.site/TypeORM-Tutorial-09a1a88f0f9c48a7976318ce5dc2646c)
     - [upsert (deprecated)](https://gist.github.com/JeremyBernier/5683ebc8e83990a4d4e3d0abd1a9549d)
 - Lit-Element
     - [Sublime Text Lit-Element Syntax Highlighting](https://github.com/JeremyBernier/LitElement-Syntax-Highlighting)
