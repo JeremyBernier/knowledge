@@ -7,6 +7,7 @@ The following are all notes, articles, and boilerplates I've written, organized 
     - [How to Host a Static Website with Google Cloud Storage and Cloudflare](https://github.com/JeremyBernier/knowledge/blob/master/2022-10-07%20how%20to%20set%20up%20static%20site%20on%20google%20cloud%20storage%20and%20cloudflare.md)
 - HTML / CSS
     - [Creating a Modal with React and TailwindCSS](https://jbernier.notion.site/Creating-a-Modal-with-React-and-TailwindCSS-b9cb739935e1431d9f5ed6b31829b09c)
+    - [CSS Centering](https://jbernier.notion.site/CSS-Centering-99eeee04aedc4932b75f7b21cdfe7cd4)
     - [HTML/CSS Boilerplate](https://www.jbernier.com/html-css-boilerplate)
     - [CSS Grid](https://www.jbernier.com/css-grid)
     - [Flexbox](https://www.jbernier.com/flexbox)
