@@ -2,6 +2,8 @@
 
 The following are all notes, articles, and boilerplates I've written, organized by topic (NOTE: Under Construction). 
 
+- General Web development
+    - [Web App Tutorial (Next.js)](https://www.notion.so/jbernier/Web-App-Tutorial-Next-js-3d4d37354b0b4ea794a177c7b6a44be3)
 - Google Cloud
     - [Deploy to Google Cloud Run with Environment Variables](https://gist.github.com/JeremyBernier/801e43f9341098e9763afd4faf5f067a)
     - [How to Host a Static Website with Google Cloud Storage and Cloudflare](https://github.com/JeremyBernier/knowledge/blob/master/2022-10-07%20how%20to%20set%20up%20static%20site%20on%20google%20cloud%20storage%20and%20cloudflare.md)
