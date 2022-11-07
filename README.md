@@ -20,8 +20,8 @@ The following are all notes, articles, and boilerplates I've written, organized 
     - [upsert (deprecated)](https://gist.github.com/JeremyBernier/5683ebc8e83990a4d4e3d0abd1a9549d)
 - Javascript
     - [Javascript Absurdities](https://www.jbernier.com/javascript-absurdities/)
-- Static Site Generators / JAMstack
-    - [Gatsbyjs Review](/gatsbyjs-review)
+- ~~Static Site Generators / JAMstack~~
+    - ~~[Gatsbyjs Review](/gatsbyjs-review)~~
 - Canvas
     - [Tips for Developing a 2D HTML5 Canvas Javascript game](https://www.jbernier.com/2d-html5-canvas-javascript-game-tips)
 - Three.js
