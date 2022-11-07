@@ -15,16 +15,11 @@ The following are all notes, articles, and boilerplates I've written, organized 
     - [Flexbox](https://www.jbernier.com/flexbox)
     - [Dark Mode Problems](https://www.jbernier.com/dark-mode)
     - [Z-Index Explained](https://www.jbernier.com/z-indexes-explained/)
-- Javascript
-    - [Javascript Absurdities](https://www.jbernier.com/javascript-absurdities/)
-- React
-    - [React Redux Node.js Universal Javascript Boilerplate](https://github.com/JeremyBernier/react-redux-node-boilerplate) (outdated now, just use Next.js)
 - TypeORM
     - [TypeORM TypeGraphQL Tutorial / Code Samples](https://jbernier.notion.site/TypeORM-Tutorial-09a1a88f0f9c48a7976318ce5dc2646c)
     - [upsert (deprecated)](https://gist.github.com/JeremyBernier/5683ebc8e83990a4d4e3d0abd1a9549d)
-- Lit-Element
-    - [Sublime Text Lit-Element Syntax Highlighting](https://github.com/JeremyBernier/LitElement-Syntax-Highlighting)
-    - [Hello World (Webpack)](https://github.com/JeremyBernier/lit-element-webpack-hello-world)
+- Javascript
+    - [Javascript Absurdities](https://www.jbernier.com/javascript-absurdities/)
 - Static Site Generators / JAMstack
     - [Gatsbyjs Review](/gatsbyjs-review)
 - Canvas
@@ -33,6 +28,11 @@ The following are all notes, articles, and boilerplates I've written, organized 
     - [Merging Geometries](https://www.jbernier.com/threejs-merging-geometries/)
 - Web Audio API
     - [Web Audio Keyboard](https://github.com/JeremyBernier/web_audio_keyboard)
+- React
+    - [React Redux Node.js Universal Javascript Boilerplate](https://github.com/JeremyBernier/react-redux-node-boilerplate) (outdated now, just use Next.js)
+- Lit-Element (outdated)
+    - [Sublime Text Lit-Element Syntax Highlighting](https://github.com/JeremyBernier/LitElement-Syntax-Highlighting)
+    - [Hello World (Webpack)](https://github.com/JeremyBernier/lit-element-webpack-hello-world)
 
 ### Terminal / Software
 
