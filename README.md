@@ -59,3 +59,6 @@ The following are all notes, articles, and boilerplates I've written, organized 
 
 ### Career
 - [My Resume Template](https://docs.google.com/document/d/1LoPO2A_mZXJTpn90K27FPKU3sdnrS_r7mXbic9HUSDw/edit?usp=sharing)
+
+### Blockchain
+- [The Biggest Missing Piece in Web3 - Decentralized Databases (Blockchains are Not Enough)](https://jeremyfreedom.substack.com/p/the-biggest-missing-piece-in-web3) - Feb 9, 2022
