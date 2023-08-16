@@ -2,7 +2,7 @@
 
 The following are all notes, articles, and boilerplates I've written, organized by topic
 
-**NOTE: I will be migrating this over to [codefire.dev/](https://codefire.dev/). And be sure to check out my personal site at [jbernier.com](https://www.jbernier.com/)**
+**NOTE: I will be migrating this over to [codefire.dev](https://codefire.dev/). And be sure to check out my personal site at [jbernier.com](https://www.jbernier.com/)**
 
 - General Web Development
     - [Web App Tutorial (Next.js)](https://www.notion.so/jbernier/Web-App-Tutorial-Next-js-3d4d37354b0b4ea794a177c7b6a44be3)
