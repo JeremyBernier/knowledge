@@ -7,7 +7,7 @@ The following are all notes, articles, and boilerplates I've written, organized 
 - General Web Development
     - [Web App Tutorial (Next.js)](https://www.notion.so/jbernier/Web-App-Tutorial-Next-js-3d4d37354b0b4ea794a177c7b6a44be3)
 - Google Cloud
-    - [How to Set Up Google Cloud Run with GitHub Actions](https://jeremybernier.notion.site/How-to-Set-Up-Google-Cloud-Run-with-GitHub-Actions-f198229acf1b49788e67e9c2ff0f0e6e)
+    - [How to Set Up Google Cloud Run with GitHub Actions](https://jbernier.notion.site/How-to-Set-Up-Google-Cloud-Run-with-GitHub-Actions-4b7ee3d747244f50bfe19276cc6556ac)
     - [gcloud project setup script for CI/CD](https://github.com/JeremyBernier/gcloud-project-setup)
     - [How to Host a Static Website with Google Cloud Storage and Cloudflare](https://github.com/JeremyBernier/knowledge/blob/master/2022-10-07%20how%20to%20set%20up%20static%20site%20on%20google%20cloud%20storage%20and%20cloudflare.md)
     - [Deploy to Google Cloud Run with Environment Variables](https://gist.github.com/JeremyBernier/801e43f9341098e9763afd4faf5f067a)
